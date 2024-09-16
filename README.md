@@ -2,37 +2,37 @@
 
 My lovely list of CTF websites :D
 
-## Categories
+### Categories
 
-- [Web](###Web)
-- [Cryptography](###Cryptography)
-- [Pwn](###Pwn)
-- [Reversing](###Reversing)
-- [Forensics](###Web)
-- [Mobile](###Mobile)
+- [Web](#Web)
+- [Cryptography](#Cryptography)
+- [Pwn](#Pwn)
+- [Reversing](#Reversing)
+- [Forensics](#Web)
+- [Mobile](#Mobile)
 
-### Web
+## Web
 - [webhacking.kr](https://webhacking.kr/)
 - [websec.fr](https://websec.fr/)
 
-### Cryptography
+## Cryptography
 - [cryptohack.org](https://cryptohack.org)
 - [cryptopals.com](https://cryptopals.com/)
-### Pwn
+## Pwn
 - [pwnable.kr](https:pwnable.kr)
 - [pwnable.tw](https:pwnable.tw)
 - [pwnable.co.il](https:pwnable.co.il)
 
-### Reversing
+## Reversing
 - [root-me.org](https://www.root-me.org/)
 - [reversing.kr](http://reversing.kr/)
 - [crackmes.one](https://crackmes.one/)
 
-### Forensics
+## Forensics
 - [hackthebox.com](https://www.hackthebox.com/) - Great sherlocks and forensics challenges
 - [ringzer0ctf.com](https://ringzer0ctf.com)
 
-### Mobile
+## Mobile
 - [mas.owasp.org/crackmes/](https://mas.owasp.org/crackmes/)
 
 And of course, [ctftime.org](https://ctftime.org), which has a lot of ongoing ctfs. \
