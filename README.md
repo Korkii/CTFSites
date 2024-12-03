@@ -31,6 +31,7 @@ My lovely list of CTF websites :D
 ## Forensics
 - [hackthebox.com](https://www.hackthebox.com/) - Great sherlocks and forensics challenges
 - [ringzer0ctf.com](https://ringzer0ctf.com)
+- [blueteamlabs.online](https://blueteamlabs.online/)
 
 ## Mobile
 - [mas.owasp.org/crackmes/](https://mas.owasp.org/crackmes/)
